@@ -1,4 +1,4 @@
-# Welcome to View3Labs 🌙
+# Welcome to View3Labs🌙
 
 A Web3-native creative studio crafting immersive IP, tokenized media, and regenerative ecosystems.  
 
@@ -7,8 +7,8 @@ We merge **storytelling, design, and blockchain** to build decentralized, commun
 ---
 
 ## 🌍 What We Do
-- 🎨 Creative IP Incubator  
 - 🛰️ Web3 Design Studio  
+- 🎨 Creative IP Incubator 
 - ♻️ Regenerative Impact — 20% revenue funds climate + social projects  
 
 ---
