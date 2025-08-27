@@ -1,4 +1,4 @@
-# Welcome to View3Labs🌙
+# View3Labs 🌙
 
 A Web3-native creative studio crafting immersive IP, tokenized media, and regenerative ecosystems.  
 
