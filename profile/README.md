@@ -9,7 +9,7 @@ We merge **storytelling, design, and blockchain** to build decentralized, commun
 ## 🌍 What We Do
 - 🛰️ Web3 Design Studio  
 - 🎨 Creative IP Incubator 
-- ♻️ Regenerative Impact — 20% revenue funds climate + social projects  
+- ♻️ Regenerative Impact — 20% revenue funds biodiversity, climate + social projects
 
 ---
 
