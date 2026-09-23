@@ -1,3 +1,5 @@
+![View3Labs: character design and animation work from the studio](https://raw.githubusercontent.com/View3Labs/README/main/community/brand-assets/View3Labs-poster.jpg)
+
 # View3Labs 🌙
 
 A Web3-native creative studio crafting immersive IP, tokenized media, and regenerative ecosystems.  
