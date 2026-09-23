@@ -2,24 +2,34 @@
 
 # View3Labs 🌙
 
-A Web3-native creative studio crafting immersive IP, tokenized media, and regenerative ecosystems.  
+**A working creative studio putting hand-drawn IP on-chain and sharing it with the people who back it. Built on Ethereum.**
 
-We merge **storytelling, design, and blockchain** to build decentralized, community-owned futures.  
-
----
-
-## 🌍 What We Do
-- 🛰️ Web3 Community Studio  
-- 🎨 Creative IP Incubator 
-- ♻️ Regenerative Impact — Net revenue funds biodiversity, climate + social projects
+One title. One token. 963 founders.
 
 ---
 
-## 📡 Resources
-- 📖 [Official Links](https://view3labs.com/links)  
+## ⚠️ Contracts
+
+**Nothing is deployed yet. No View3Labs contract is live on any chain**, so anything on-chain claiming to be $VIEW3 or the View3Labs Founder NFT today is fake. The one official address is posted in a single channel of our Discord, by the team, nowhere else. The team will never DM you first.
 
 ---
 
-## 🥷 Founded by 
+## 🌍 What we do
+
+- 🎨 **Original IP** — hand-drawn worlds, characters and stories, made by our own art team
+- 🧠 **Intelligent collectibles** — NFTs that develop alongside the story, driven by AI trained purely on our own work
+- ♻️ **Regenerative impact** — 10% of the token and 20% of studio profit, for ever
+
+---
+
+## 📖 Read more
+
+- [Litepaper](https://github.com/View3Labs/README/blob/main/litepaper.md) — five minutes
+- [Documentation hub](https://github.com/View3Labs/README) — roadmap, FAQ, security policy
+- [Website](https://view3labs.com) · [Official links](https://view3labs.com/links)
+
+---
+
+## 🥷 Founded by
 
 - [@jamiebxrns](https://github.com/jamiebxrns) • [view3labs.com](https://view3labs.com)
