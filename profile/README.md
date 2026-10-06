@@ -16,16 +16,16 @@ One title. One token. 963 founders.
 
 ## 🌍 What we do
 
-- 🎨 **Original IP** — hand-drawn worlds, characters and stories, made by our own art team
-- 🧠 **Intelligent collectibles** — NFTs that develop alongside the story, driven by AI trained purely on our own work
-- ♻️ **Regenerative impact** — 10% of the token and 20% of studio profit, for ever
+- 🎨 **Original IP:** hand-drawn worlds, characters and stories, made by our own art team
+- 🧠 **Intelligent collectibles:** NFTs that develop alongside the story, driven by AI trained purely on our own work
+- ♻️ **Regenerative impact:** 10% of the token and 20% of studio profit, for ever
 
 ---
 
 ## 📖 Read more
 
-- [Litepaper](https://github.com/View3Labs/README/blob/main/litepaper.md) — five minutes
-- [Documentation hub](https://github.com/View3Labs/README) — roadmap, FAQ, security policy
+- [Litepaper](https://github.com/View3Labs/README/blob/main/litepaper.md): a five-minute read
+- [Documentation hub](https://github.com/View3Labs/README): roadmap, FAQ, security policy
 - [Website](https://view3labs.com) · [Official links](https://view3labs.com/links)
 
 ---
