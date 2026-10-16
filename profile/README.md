@@ -10,7 +10,7 @@ One studio. 963 founders.
 
 ## ⚠️ Contracts
 
-**Nothing is deployed yet. No View3Labs contract is live on any chain**, so anything on-chain claiming to be $VIEW3 or the View3Labs Founder NFT today is fake. The one official address is posted in a single channel of our Discord, by the team, nowhere else. The team will never DM you first.
+**Nothing is deployed yet. No View3Labs contract is live on any chain**, so anything on-chain claiming to be ours today is fake. The one official address is posted in a single channel of our Discord, by the team, nowhere else. The team will never DM you first.
 
 ---
 
