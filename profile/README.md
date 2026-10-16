@@ -2,9 +2,9 @@
 
 # View3Labs 🌙
 
-**A working creative studio putting hand-drawn IP on-chain as intelligent collectibles and sharing it with the people who back it. Built on Ethereum.**
+**A working creative studio putting hand-drawn IP on-chain as intelligent NFT companions, made with the community that grows around it. Built on Ethereum.**
 
-One studio. One token. 963 founders.
+One studio. 963 founders.
 
 ---
 
@@ -17,8 +17,8 @@ One studio. One token. 963 founders.
 ## 🌍 What we do
 
 - 🎨 **Original IP:** hand-drawn worlds, characters and stories, made by our own art team
-- 🧠 **Intelligent collectibles:** NFTs that develop alongside the story, driven by AI trained purely on our own work
-- ♻️ **Regenerative impact:** 10% of the token. A share of every sale. For ever
+- 🧠 **AI companions (iNFTs):** characters that grow alongside the story, driven by AI trained purely on our own work. Drawn by hand. Raised by you
+- ♻️ **Regenerative impact:** a share of every sale. For ever
 
 ---
 
